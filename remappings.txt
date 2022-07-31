@@ -1,1 +1,2 @@
 strings/=lib/solidity-stringutils/src/
+@openzeppelin/=lib/openzeppelin-contracts/
